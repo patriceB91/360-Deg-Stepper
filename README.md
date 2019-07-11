@@ -16,7 +16,7 @@
  The final system should be able to drive 3 kind of camera :
   - any cam that can be controlled via a switch (like Canon 70D using 2.5" jack) - Switch is isolated.
   - an iPhone, using BT remote control.
-  - a Canon via IR remote. --> Abandonned, due to 2s Delay because of timer use in Canon Remote control.
+  - a Canon via IR remote. --> Abandoned, due to 2s Delay because of timer use in Canon Remote control.
 
  The following values are adjustables :
   - number of picture per tour
